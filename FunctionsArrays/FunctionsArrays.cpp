@@ -53,7 +53,7 @@ void main()
 	cout << "Минимальное значение массива: " << minValueIn(arr, n) << endl;
 	cout << "Максимальное значение массива: " << maxValueIn(arr, n) << endl;
 	Sort(arr, n);
-	Print(arr, n);
+	Print(arr, n); 
 
 	/*int number_of_shifts;
 	cout << "Введите количество сдвигов: "; cin >> number_of_shifts;
