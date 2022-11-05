@@ -1,7 +1,7 @@
 ﻿#include "stdafx.h"
 #include "constants.h"
 #include "Print.h"
-#include "statistics.h"
+#include "Statistics.h"
 #include "Sum.h"
 
 
